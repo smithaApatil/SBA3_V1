@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\ravi.bgm1\Desktop\Java Tranings\IJP_Portal-main\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2334879053.index
+2992272413.index
+2798797885.index
+2633501181.index
+3492156408.index
